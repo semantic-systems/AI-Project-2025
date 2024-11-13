@@ -40,9 +40,8 @@ To provide guidance to students who may be new to development, here is a sequenc
 9. **Learn Deployment and Packaging with Docker and Docker Compose**  
    - [Docker Getting Started](https://docs.docker.com/get-started/)
 
-10. **Learn SCRUM for Project Management**  
-   - [LEGO4SCRUM](https://www.lego4scrum.com/)  
-   - [Trello Guide](https://trello.com/guide)
+10. **Learn SCRUM for Project Management**   
+    - [Trello Guide](https://trello.com/guide)
 
 
 My last tip is, use ChatGPT to understand topics in more depth. I have found it to be very effective in these topics, and can also produce for you code and templates which you can use directly in your projects.
