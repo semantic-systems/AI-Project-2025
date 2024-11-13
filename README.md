@@ -1,5 +1,6 @@
 
-# AI Project 2024 at Leuphana University of Lüneburg, Germany (KI-Projekt/Seminar)
+# AI Project 2024 at Leuphana University of Lüneburg, Germany
+
 
 To provide guidance to students who may be new to development, I provide below a  sequence of topics the students should learn to be able to develop a working project.
 
