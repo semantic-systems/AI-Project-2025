@@ -1,38 +1,48 @@
-
 # AI Project 2024 at Leuphana University of Lüneburg, Germany
 
+To provide guidance to students who may be new to development, here is a sequence of topics the students should learn to develop a working project.
 
-To provide guidance to students who may be new to development, I provide below a  sequence of topics the students should learn to be able to develop a working project.
+1. **Learn Git**  
+   You will use Git to maintain your code, so the first step is to learn this tool.  
+   - [GitHub Guides](https://github.com/git-guides)  
+   - [Git for Computer Scientists (more advanced)](https://eagain.net/articles/git-for-computer-scientists/)
 
- 1. Learn git
-		 You will use git to maintain your code, so the first step is to learn this tool.
-		https://github.com/git-guides
-		https://eagain.net/articles/git-for-computer-scientists/ (more advanced)
- 2. Learn Python
-		https://docs.python.org/3/tutorial/index.html
-		Also make sure you do all Python development in a virtual environment https://docs.python.org/3/library/venv.html
- 3. Understand the concept of full-stack development
-		https://www.mongodb.com/resources/basics/full-stack-development
- 4. Learn about REST APIs
-		 https://blog.postman.com/rest-api-examples/
- 5. Learn the Flask framework (or nodejs) (OPTIONAL, see 8)
-		 Flask is a Python based framework that handles the backend API. It is easier if you already know Python. Some people are more comfortable with javascript and for them nodejs is better.
-			https://docs.python.org/3/tutorial/index.html
-			https://www.w3schools.com/nodejs/
- 6. Learn a web frontend framework (OPTIONAL, see 8)
-			 HTML https://www.w3schools.com/html/default.asp
-			 CSS https://www.w3schools.com/css/default.asp
-			 Javascript https://www.w3schools.com/js/default.asp
-			 React https://www.w3schools.com/react/default.asp
-			 Bootstrap https://www.w3schools.com/bootstrap/bootstrap_ver.asp
- 7. Learn a database
-			 What kind of database should I use for my application? https://www.geeksforgeeks.org/how-to-choose-the-right-database-for-your-application/ 
-			 Decide between SQL vs NO-SQL. You may also need a Graph database.
-		 
- 8. As an alternative to 5 and 6, you could learn Streamlit which combines frontend and backend into a single Python framework, but this offers lower flexibility. **I recommend this framework for this course to save your time.**
-			 https://docs.streamlit.io/develop/tutorials
- 9. Learn deployment and packaging with docker and docker-compose.
-			 https://docs.docker.com/get-started/
- 10. Learn SCRUM for project management
-			 https://www.lego4scrum.com/
-			 https://trello.com/guide
+2. **Learn Python**  
+   - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)  
+   - Make sure you do all Python development in a virtual environment: [Python venv](https://docs.python.org/3/library/venv.html)
+
+3. **Understand the Concept of Full-Stack Development**  
+   - [Full-Stack Development Basics](https://www.mongodb.com/resources/basics/full-stack-development)
+
+4. **Learn about REST APIs**  
+   - [REST API Examples](https://blog.postman.com/rest-api-examples/)
+
+5. **Learn the Flask Framework (or Node.js) (OPTIONAL, see 8)**  
+   Flask is a Python-based framework for handling backend APIs. It's easier if you already know Python. If you're more comfortable with JavaScript, Node.js is a good alternative.  
+   - [Flask Documentation](https://flask.palletsprojects.com/)  
+   - [Node.js Tutorial](https://www.w3schools.com/nodejs/)
+
+6. **Learn a Web Frontend Framework (OPTIONAL, see 8)**  
+   - [HTML Tutorial](https://www.w3schools.com/html/default.asp)  
+   - [CSS Tutorial](https://www.w3schools.com/css/default.asp)  
+   - [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)  
+   - [React Tutorial](https://www.w3schools.com/react/default.asp)  
+   - [Bootstrap Tutorial](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
+
+7. **Learn a Database**  
+   - [Choosing the Right Database](https://www.geeksforgeeks.org/how-to-choose-the-right-database-for-your-application/)  
+   - Decide between SQL and NoSQL. You may also need a Graph database.
+
+8. **Alternative to 5 and 6: Learn Streamlit**  
+   Streamlit combines frontend and backend into a single Python framework, but it offers less flexibility. **I recommend this framework for this course to save time.**  
+   - [Streamlit Documentation](https://docs.streamlit.io/develop/tutorials)
+
+9. **Learn Deployment and Packaging with Docker and Docker Compose**  
+   - [Docker Getting Started](https://docs.docker.com/get-started/)
+
+10. **Learn SCRUM for Project Management**  
+   - [LEGO4SCRUM](https://www.lego4scrum.com/)  
+   - [Trello Guide](https://trello.com/guide)
+
+
+My last tip is, use ChatGPT to understand topics in more depth. I have found it to be very effective in these topics, and can also produce for you code and templates which you can use directly in your projects.
