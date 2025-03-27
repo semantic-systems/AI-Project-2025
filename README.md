@@ -10,6 +10,11 @@ To provide guidance to students who may be new to development, here is a sequenc
 2. **Learn Python**  
    - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)  
    - Make sure you do all Python development in a virtual environment: [Python venv](https://docs.python.org/3/library/venv.html)
+  
+2.5. **Learn LangChain and RAG**  
+   - [LangChain](https://python.langchain.com/docs/tutorials/)
+   - [RAG] (https://python.langchain.com/docs/concepts/rag/)
+   - [PDF-Document-QA] (https://python.langchain.com/v0.2/docs/tutorials/pdf_qa/)
 
 3. **Understand the Concept of Full-Stack Development**  
    - [Full-Stack Development Basics](https://www.mongodb.com/resources/basics/full-stack-development)
