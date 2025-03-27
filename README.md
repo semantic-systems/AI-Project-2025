@@ -1,4 +1,4 @@
-# AI Project 2024 at Leuphana University of Lüneburg, Germany
+# AI Seminar Summer Semester 2025 at Leuphana University of Lüneburg, Germany
 
 To provide guidance to students who may be new to development, here is a sequence of topics the students should learn to develop a working project.
 
