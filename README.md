@@ -41,7 +41,7 @@ To provide guidance to students who may be new to development, here is a sequenc
    - [Choosing the Right Database](https://www.geeksforgeeks.org/how-to-choose-the-right-database-for-your-application/)  
    - Decide between SQL and NoSQL. You may also need a Graph database.
 
-10. **Alternative to 5 and 6: Learn Streamlit**  
+10. **Alternative to 7 and 8: Learn Streamlit**  
    Streamlit combines frontend and backend into a single Python framework, but it offers less flexibility. **I recommend this framework for this course to save time.**  
    - [Streamlit Documentation](https://docs.streamlit.io/develop/tutorials)
 
