@@ -14,7 +14,7 @@ To provide guidance to students who may be new to development, here is a sequenc
    - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)  
    - Make sure you do all Python development in a virtual environment: [Python venv](https://docs.python.org/3/library/venv.html)
 
-4. **Learn LangChain and RAG**  
+4. **Learn LangChain and RAG**  (this is the most essential aspect of this course)
    - [LangChain](https://python.langchain.com/docs/tutorials/)
    - [RAG](https://python.langchain.com/docs/concepts/rag/)
    - [PDF-Document-QA](https://python.langchain.com/v0.2/docs/tutorials/pdf_qa/)
