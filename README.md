@@ -2,18 +2,18 @@
 
 To provide guidance to students who may be new to development, here is a sequence of topics the students should learn to develop a working project.
 
-1. **Learn Git**  
+1.**Learn SCRUM for Project Management**   
+    - [Trello Guide](https://trello.com/guide)
+
+2. **Learn Python**  
+   - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)  
+   - Make sure you do all Python development in a virtual environment: [Python venv](https://docs.python.org/3/library/venv.html)
+  
+3. **Learn Git**  
    You will use Git to maintain your code, so the first step is to learn this tool.  
    - [GitHub Guides](https://github.com/git-guides)  
    - [Git for Computer Scientists (more advanced)](https://eagain.net/articles/git-for-computer-scientists/)
-     
-2. **Learn SCRUM for Project Management**   
-    - [Trello Guide](https://trello.com/guide)
-
-3. **Learn Python**  
-   - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)  
-   - Make sure you do all Python development in a virtual environment: [Python venv](https://docs.python.org/3/library/venv.html)
-
+      
 4. **Learn LangChain and RAG**  (this is the most essential aspect of this course)
    - [LangChain](https://python.langchain.com/docs/tutorials/)
    - [RAG](https://python.langchain.com/docs/concepts/rag/)
