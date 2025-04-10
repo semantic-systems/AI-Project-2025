@@ -2,7 +2,7 @@
 
 To provide guidance to students who may be new to development, here is a sequence of topics the students should learn to develop a working project.
 
-1.**Learn SCRUM for Project Management**   
+1. **Learn SCRUM for Project Management**   
     - [Trello Guide](https://trello.com/guide)
 
 2. **Learn Python**  
