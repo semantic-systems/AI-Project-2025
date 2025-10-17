@@ -15,10 +15,11 @@ To provide guidance to students who may be new to development, here is a sequenc
    - [GitHub Guides](https://github.com/git-guides)  
    - [Git for Computer Scientists (more advanced)](https://eagain.net/articles/git-for-computer-scientists/)
       
-5. **Learn LangChain and RAG**  (this is the most essential aspect of this course)
+5. **Learn LangChain and RAG OR Docling**  (if your project requires Retrieval Augmented Generation)
    - [LangChain](https://python.langchain.com/docs/tutorials/)
    - [RAG](https://python.langchain.com/docs/concepts/rag/)
    - [PDF-Document-QA](https://python.langchain.com/v0.2/docs/tutorials/pdf_qa/)
+   - [Docling] (https://github.com/docling-project/docling)
 
 6. **Understand the Concept of Full-Stack Development**  
    - [Full-Stack Development Basics](https://www.mongodb.com/resources/basics/full-stack-development)
@@ -42,9 +43,10 @@ To provide guidance to students who may be new to development, here is a sequenc
    - [Choosing the Right Database](https://www.geeksforgeeks.org/how-to-choose-the-right-database-for-your-application/)  
    - Decide between SQL and NoSQL. You may also need a Graph database.
 
-11. **Alternative to 7 and 8: Learn Streamlit**  
-   Streamlit combines frontend and backend into a single Python framework, but it offers less flexibility. **I recommend this framework for this course to save time.**  
+11. **Alternative to 7 and 8: Learn Streamlit OR Reflex.dev**  
+   Streamlit combines frontend and backend into a single Python framework, but it offers less flexibility. Same for reflex.dev. **I recommend this framework for this course to save time.**  
    - [Streamlit Documentation](https://docs.streamlit.io/develop/concepts)
+   - [Reflex.dev] (https://reflex.dev/)
 
 11. **Learn Deployment and Packaging with Docker and Docker Compose**  
    - [Docker Getting Started](https://docs.docker.com/get-started/)
