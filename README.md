@@ -44,7 +44,7 @@ To provide guidance to students who may be new to development, here is a sequenc
 
 11. **Alternative to 7 and 8: Learn Streamlit**  
    Streamlit combines frontend and backend into a single Python framework, but it offers less flexibility. **I recommend this framework for this course to save time.**  
-   - [Streamlit Documentation](https://docs.streamlit.io/develop/tutorials)
+   - [Streamlit Documentation](https://docs.streamlit.io/develop/concepts)
 
 11. **Learn Deployment and Packaging with Docker and Docker Compose**  
    - [Docker Getting Started](https://docs.docker.com/get-started/)
