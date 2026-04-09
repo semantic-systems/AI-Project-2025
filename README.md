@@ -15,11 +15,12 @@ To provide guidance to students who may be new to development, here is a sequenc
    - [GitHub Guides](https://github.com/git-guides)  
    - [Git for Computer Scientists (more advanced)](https://eagain.net/articles/git-for-computer-scientists/)
       
-5. **Learn LangChain and RAG OR Docling**  (if your project requires Retrieval Augmented Generation)
+5. **Learn LangChain and RAG OR Docling OR HayStack**  (if your project requires Retrieval Augmented Generation)
    - [LangChain](https://python.langchain.com/docs/tutorials/)
    - [RAG](https://python.langchain.com/docs/concepts/rag/)
    - [PDF-Document-QA](https://python.langchain.com/v0.2/docs/tutorials/pdf_qa/)
    - [Docling](https://github.com/docling-project/docling)
+   - [HayStack](https://haystack.deepset.ai/)
 
 6. **Understand the Concept of Full-Stack Development**  
    - [Full-Stack Development Basics](https://www.mongodb.com/resources/basics/full-stack-development)
